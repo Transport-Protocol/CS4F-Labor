@@ -11,7 +11,7 @@ Mehr Informationen: https://creativecommons.org
 
 
 # Codespace 
-Wir bieten auch einen Codespace zur bearbeitung der Latex Sourcen. Daher gerne das Video schauen für eine kleine Anleitung:
+Wir bieten auch einen Codespace zur Bearbeitung der Sourcen.  
 
 
 <small>Codespace Config based on the idea of https://github.com/sanjib-sen/WebLaTex</small>
