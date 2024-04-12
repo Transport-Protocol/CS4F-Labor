@@ -10,5 +10,8 @@ Mehr Informationen: https://creativecommons.org
 
 
 
+# Codespace 
+Wir bieten auch einen Codespace zur bearbeitung der Latex Sourcen. Daher gerne das Video schauen für eine kleine Anleitung:
 
-Thanks to the work of https://github.com/sanjib-sen/WebLaTex
+
+<small>Thanks to the work of https://github.com/sanjib-sen/WebLaTex</small>
