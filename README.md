@@ -1,4 +1,4 @@
-# CS4F-Labor
+# CS4F-NahLab
 
 Das Nachhaltigkeitslabor ist ein interdisziplinäres Zentrum, das sich der Entwicklung und Umsetzung
 nachhaltiger Praktiken und Technologien widmet.    
