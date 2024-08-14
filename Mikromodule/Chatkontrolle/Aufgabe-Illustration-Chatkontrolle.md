@@ -1,3 +1,8 @@
+Notwendige Dateien:     
+[Chatkontrolle Wimmelbild Illustration auf GitHub](https://github.com/Transport-Protocol/CS4F-NahLab/blob/79023779fe975823985692b3295b798c289807c8/Mikromodule/Chatkontrolle/Illustrationen/chatkontrolle%20wimmelbild.pdf)
+
+
+
 ## Zielsetzung der Sitzung:
 Die Studierenden sollen ein tieferes Verständnis für die Risiken und Herausforderungen der Chatkontrolle entwickeln. Insbesondere sollen sie die verschiedenen Aspekte wie die Gefahr des Missbrauchs, die Risiken für Meinungs- und Pressefreiheit sowie die technischen und ethischen Herausforderungen analysieren und diskutieren.
 
