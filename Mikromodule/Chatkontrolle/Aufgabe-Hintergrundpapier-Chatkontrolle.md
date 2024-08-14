@@ -1,5 +1,5 @@
-## Zielsetzung der Diskussion:
-Die Studierenden sollen die Inhalte des Aufgabenblattes gemeinsam analysieren, kritisch hinterfragen und die zentralen Themenpunkte in der Gruppe diskutieren. Ziel ist es, ein tieferes Verständnis der Problematik der Chatkontrolle und ihrer Implikationen zu erlangen.
+## Zielsetzung des Hintergrundpapiers:
+Die Studierenden sollen die Inhalte des Hintergrundpapiers gemeinsam analysieren, kritisch hinterfragen und die zentralen Themenpunkte in der Gruppe diskutieren. Ziel ist es, ein tieferes Verständnis der Problematik der Chatkontrolle und ihrer Implikationen zu erlangen.
 
 ## Vorbereitung:
 1. **Verteilung des Aufgabenblatts**: Stellen Sie sicher, dass alle Studierenden das Aufgabenblatt erhalten haben und es im Vorfeld der Diskussion gelesen haben.
