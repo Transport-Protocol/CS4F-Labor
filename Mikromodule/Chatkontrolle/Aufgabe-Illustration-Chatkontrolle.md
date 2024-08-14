@@ -1,5 +1,7 @@
 Notwendige Dateien:     
-[Chatkontrolle Wimmelbild Illustration auf GitHub](https://github.com/Transport-Protocol/CS4F-NahLab/blob/79023779fe975823985692b3295b798c289807c8/Mikromodule/Chatkontrolle/Illustrationen/chatkontrolle%20wimmelbild.pdf)
+[Chatkontrolle Wimmelbild Illustration auf GitHub](https://github.com/Transport-Protocol/CS4F-NahLab/blob/79023779fe975823985692b3295b798c289807c8/Mikromodule/Chatkontrolle/Illustrationen/chatkontrolle%20wimmelbild.pdf)    
+[Chatkontrolle PDF auf GitHub](https://github.com/Transport-Protocol/CS4F-NahLab/blob/ffaab9d835e01be7092038779e702b351a2fad19/Mikromodule/Chatkontrolle/tex/PDF/chatcontrolle.pdf)
+
 
 
 
