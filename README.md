@@ -22,7 +22,7 @@ Das Repository „[CS4F-NahLab](https://github.com/Transport-Protocol/CS4F-NahLa
   Dieses Verzeichnis enthält alle wichtigen Codeanteile, Texte oder Skripte, die sich mit spezifischen Mikromodulen im Projekt beschäftigen.
 
 - **`Mission/Studienleistungen/`**  
-  Hier könnten Dokumente oder Projekte abgelegt sein, die mit der Mission des Nachhaltigkeitslabors oder mit studentischen Leistungen im Zusammenhang stehen.
+  Hier sind Dokumente oder Projekte abgelegt, die mit der Mission des Nachhaltigkeitslabors oder spezifischen Projekten verbunden sind. Sie dienen als Orientierung.
   
 - **`.devcontainer/`**  
   Dieses Verzeichnis enthält Konfigurationsdateien für die Entwicklungsumgebung, die es ermöglicht, eine einheitliche Umgebung für alle Mitwirkenden bereitzustellen.
