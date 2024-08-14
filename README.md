@@ -18,18 +18,17 @@ Wir bieten auch einen Codespace zur Bearbeitung der Sourcen.
 Das Repository „[CS4F-NahLab](https://github.com/Transport-Protocol/CS4F-NahLab)“ ist ein Respository des interdisziplinäres Projekt CS4F.
 
 ## Verzeichnisstruktur
+- **`Mikromodule/`**  
+  Dieses Verzeichnis enthält alle wichtigen Codeanteile, Texte oder Skripte, die sich mit spezifischen Mikromodulen im Projekt beschäftigen.
 
+- **`Mission/Studienleistungen/`**  
+  Hier könnten Dokumente oder Projekte abgelegt sein, die mit der Mission des Nachhaltigkeitslabors oder mit studentischen Leistungen im Zusammenhang stehen.
+  
 - **`.devcontainer/`**  
   Dieses Verzeichnis enthält Konfigurationsdateien für die Entwicklungsumgebung, die es ermöglicht, eine einheitliche Umgebung für alle Mitwirkenden bereitzustellen.
 
 - **`.github/workflows/`**  
   In diesem Ordner befinden sich YAML-Dateien, die für GitHub Actions verwendet werden, um automatisierte Workflows wie das Testen, Bauen und Bereitstellen von Code zu definieren.
-
-- **`Mikromodule/`**  
-  Dieses Verzeichnis enthält wahrscheinlich Code oder Skripte, die sich mit spezifischen Mikromodulen im Projekt beschäftigen, möglicherweise als kleinere, unabhängige Funktionseinheiten.
-
-- **`Mission/Studienleistungen/`**  
-  Hier könnten Dokumente oder Projekte abgelegt sein, die mit der Mission des Nachhaltigkeitslabors oder mit studentischen Leistungen im Zusammenhang stehen.
 
 - **`podcast-src/`**  
   Dieses Verzeichnis könnte die Quelldateien für Podcasts enthalten, die im Rahmen des Projekts produziert werden, um die Inhalte und Ziele des Nachhaltigkeitslabors zu verbreiten.
