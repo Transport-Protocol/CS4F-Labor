@@ -1,3 +1,6 @@
+Notwendig:    
+[Chatkontrolle PDF auf GitHub](https://github.com/Transport-Protocol/CS4F-NahLab/blob/ffaab9d835e01be7092038779e702b351a2fad19/Mikromodule/Chatkontrolle/tex/PDF/chatcontrolle.pdf)     
+
 ## Zielsetzung des Hintergrundpapiers:
 Die Studierenden sollen die Inhalte des Hintergrundpapiers gemeinsam analysieren, kritisch hinterfragen und die zentralen Themenpunkte in der Gruppe diskutieren. Ziel ist es, ein tieferes Verständnis der Problematik der Chatkontrolle und ihrer Implikationen zu erlangen.
 
