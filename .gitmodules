@@ -1,0 +1,3 @@
+[submodule "General-Testing-Concept"]
+	path = General-Testing-Concept
+	url = https://github.com/Transport-Protocol/General-Testing-Concept.git
