@@ -1,9 +1,0 @@
-Experiment zu Laufzeit und Energieverbrauch: Spannbaum
-
-Dieses Experiment umfasst den Einsatz des Kruskal-Algorithmus aus  der Library GraphStream(https://graphstream-project.org/) und die Generierung von geeigneten Multigraphen.
-
-Es zielt darauf ab, Tools zur Messung der Energieeffizienz zu auszuprobieren, den Energieverbrauch vergleichbar zu machen und die Ergebnisse für eine statistische Analyse festzuhalten.
-
-Randomisierte Multigraphen sollen in Java implementiert werden, dann der Spannbaum mit Hilfe des des Kruskal-Algorithmus berechnet werden und dabei   die Laufzeit- und Energieverbrauchsmessung durchgeführt werden.
-
-Die genaue Aufgabenstellung findet sich im PDF anbei.
