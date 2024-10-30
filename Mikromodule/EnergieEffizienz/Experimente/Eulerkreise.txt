@@ -1,0 +1,9 @@
+Experiment zu Laufzeit und Energieverbrauch: Eulerkreise
+
+Diese  Aufgabe umfasst die Implementierung von  Algorithmen aus dem Bereich der Graphentheorie und  Nutzung der Library GraphStream (https://graphstream-project.org/).
+
+Der Algorithmus von Hierholzer (z. B. https://de.wikipedia.org/wiki/Algorithmus_von_Hierholzer liefert für einen ungerichteten, Eulerschen Graphen einen Eulerkreis. Dieser Algorithmus soll in Java implementiert und dabei die Laufzeit- und Energieverbrauchsmessung durchgeführt werden.
+
+Bitte implementieren und testen Sie die den Hierholzer-Algorithmus zur Eulerkreissuche. Hier finden Sie die Beschreibung (siehe auch Anhang A des Hintergrundpapiers).
+
+Die genaue Aufgabenstellung findet sich im PDF anbei.
