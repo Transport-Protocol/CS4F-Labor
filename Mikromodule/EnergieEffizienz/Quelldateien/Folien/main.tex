@@ -1,0 +1,48 @@
+\usepackage{csff}
+
+
+\begin{document}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%% Titlepage %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title[\MMkrz]{\MMname}   
+\author{Julia Padberg\footnote{\scriptsize mit Unterstützung von \\Nina Godenrath, Haron Nazari, Aaron Sielaff und Emirhan Yildiz}}
+\institute{Computer Science for Future}
+\date{Februar 2024}
+
+\logo{\includegraphics[height=1.5cm]{../Figures/CS4Flogo.png}}
+
+\newcommand{\CSfF}{\textbf{{\color{blue}CS4F}}}
+\newcommand{\COze}{CO$_{2e}$}
+\newcommand{\COz}{CO$_{2}$}
+
+
+
+\subtitle{Mikromodul  }
+\frame{\titlepage} 
+
+
+\input{energieEffizienz}
+%{\small
+%\input{MM_EinEnergEffizienz.bbl}
+%}
+
+\section{CS4F}
+\input{cs4fIntro}
+
+\section{Quellen}
+
+\footnotesize
+
+\setbeamertemplate{bibliography item}[text]
+\bibliographystyle{plain}
+\bibliography{NAHlab} 
+%
+%\begin{frame}{Quellen}
+%\footnotesize
+%\input{MM_EinEnergEffizienz.bbl}
+%\end{frame}
+
+\end{document}
