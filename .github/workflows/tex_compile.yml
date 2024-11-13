@@ -22,9 +22,14 @@ jobs:
     - name: Compile LaTeX Documents
       run: |
         for file in $(find . -name '*.tex'); do
-          pdflatex -halt-on-error $file
-          if [ $? -ne 0 ]; then
-            echo "Compilation failed for $file"
-            exit 1
+          # Check if the file contains \documentclass (indicating a standalone document)
+          if grep -q '\\documentclass' "$file"; then
+            pdflatex -halt-on-error "$file"
+            if [ $? -ne 0 ]; then
+              echo "Compilation failed for $file"
+              exit 1
+            fi
+          else
+            echo "Skipping $file as it is not a standalone document."
           fi
         done
