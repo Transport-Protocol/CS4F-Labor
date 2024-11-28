@@ -1,0 +1,51 @@
+%MM_EinEnergEffizienz.tex
+%This is the  main document.
+%These slides require the XeLateX or LuaLaTeX compiler.
+%The library is NAHlab.bib and biber must be used.
+%The path for the figures may have to be changed.
+
+
+\documentclass[aspectratio=169,10pt]{beamer}
+\usepackage{CS4F_Colors}
+\usepackage{csff}
+
+% Defintion für das Datum hier eingeben
+\def \dokumentdatum {Juli 2024}
+
+% Konfiguration für Beamer
+\include{beamer_config}
+
+
+
+
+
+\graphicspath{ {../Figures/}}
+
+
+\newcommand{\MMkrz}{MM EE}
+\newcommand{\MMname}{Energieeffizienz im digitalen Alltag \\ \hspace*{\fill}und beim Coding}
+\newcommand{\MMhome}{~}%
+
+\newcommand{\COze}{CO$_{2e}$}
+\newcommand{\COz}{CO$_{2}$}
+
+
+
+\title[\MMkrz]{\MMname}  
+\subtitle{Mikromodul} 
+\author{Julia Padberg\\\hspace*{\fill}
+{\small mit Unterstützung von Nina Godenrath, Haron Nazari, Aaron Sielaff und Emirhan Yildiz}}
+\institute{Computer Science for Future}
+\date{\dokumentdatum}
+
+
+
+\begin{document}
+
+
+\frame{\maketitle}
+
+
+\input{main}  
+
+\end{document}

@@ -1,0 +1,26 @@
+%csff.sty
+\usepackage{amsmath,amssymb}  %latexsym problemtisch bei overprints
+\usepackage{wasysym,stmaryrd,txfonts,marvosym}
+
+\usepackage[german]{babel}
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx,xcolor,rotating}
+
+\usepackage{fancybox}
+\usepackage{hyperref}
+
+\usepackage[thinlines]{easytable}
+
+\usepackage[final]{pdfpages}
+\usepackage[
+    backend=biber,
+    style=ieee,
+  ]{biblatex}
+\addbibresource{NAHlab.bib} %Import the bibliography file
+
+
+
+
+\newcommand{\frameref}[1]{\hyperlink{#1}{\beamergotobutton{Folie \pageref{#1}}}}
+\newcommand{\infoAbb}{\hyperlink{abb}{\beamergotobutton{Infos auf Folie \pageref{abb}}}}

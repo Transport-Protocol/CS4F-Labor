@@ -1,0 +1,69 @@
+\usepackage{textpos}
+
+% Beamer Konfigurationen
+\color{textfarbe}
+
+% Hintergrundbild
+\usebackgroundtemplate{\includegraphics[width=\paperwidth,height=\paperheight]{background.png}}
+
+% Etwas weiter Unten, die Titel damit sie nicht mit dem Hintergrund kollidieren
+\addtobeamertemplate{frametitle}{\vskip 20pt}
+
+% Setzt die Standard textfarbe durch
+\setbeamercolor{frametitle}{fg=textfarbe}
+\setbeamercolor{section in head/foot}{fg=textfarbe}
+\setbeamercolor{author in head/foot}{fg=textfarbe}
+\setbeamercolor{date in head/foot}{fg=textfarbe}
+
+% Navigations Bar von Beamer entfernen
+\beamertemplatenavigationsymbolsempty
+
+% Footer einstellen für Beamer
+\setbeamertemplate{footline}[text line]{%
+  \parbox{\linewidth}
+  {
+    \begin{textblock}{4}(-0.8, -0.28)
+        \dokumentdatum
+    \end{textblock}
+
+    \begin{textblock}{4}(5.5, -0.28)
+        License: CC BY 4.0
+    \end{textblock}
+
+    \begin{textblock}{4}(14.5, -0.28)
+        \insertpagenumber
+    \end{textblock}
+  }}
+\setbeamertemplate{navigation symbols}{}
+
+% Titel Folie einrichten
+\defbeamertemplate*{title page}{customized}[1][]
+{
+  \usebeamercolor[fg]{frametitle}
+  {\huge \inserttitle}\par
+  {\large \insertsubtitle}\par
+  \bigskip
+  \insertauthor\par
+  \insertinstitute\par
+  \insertdate\par
+}
+
+\setbeamerfont{title}{size=\large}
+
+% Font für die Slides
+\usefonttheme{professionalfonts} % using non standard fonts for beamer
+\usefonttheme{serif} % default family is serif
+\usepackage{fontspec}
+    \setmainfont[
+    Path = dmsans/, % Path to your font files
+    Extension = .ttf, % Extension of your font files
+    UprightFont = *-Regular,
+    BoldFont = *-Bold,
+    ItalicFont = *-Italic,
+    BoldItalicFont = *-BoldItalic
+    ]{DMSans}
+		
+		
+		
+
+\setbeamertemplate{caption}[numbered]
