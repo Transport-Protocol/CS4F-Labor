@@ -27,7 +27,7 @@ jobs:
             # Change directory to the file's location
             cd "$(dirname "$file")"
             # Compile the LaTeX document
-            pdflatex -halt-on-error "$(basename "$file")"
+            xelatex -halt-on-error "$(basename "$file")"
             if [ $? -ne 0 ]; then
               echo "Compilation failed for $file"
               exit 1
